@@ -1,0 +1,18 @@
+
+username='//*[@id="page-container"]/div/div[1]/form/fieldset/div[1]/input'
+password='//*[@id="page-container"]/div/div[1]/form/fieldset/div[2]/input'
+send_tweet_button='form.tweet-form:nth-child(2) > div:nth-child(3) > div:nth-child(2) > button:nth-child(2)'
+sel_days='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(6) > div:nth-child(3) > select:nth-child(2)'
+sel_hours='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(6) > div:nth-child(3) > spann:nth-child(3) > select:nth-child(1)'
+sel_minutes='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(6) > div:nth-child(3) > spann:nth-child(3) > spann:nth-child(2) > select:nth-child(1)'
+first_option='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)'
+second_option='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)'
+third_option='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2)'
+fourth_option='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(4) > div:nth-child(2)'
+add_poll='form.tweet-form:nth-child(2) > div:nth-child(3) > div:nth-child(1) > span:nth-child(3) > div:nth-child(1) > button:nth-child(1)'
+poll_duration='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > div:nth-child(6) > button:nth-child(2)'
+
+add_choice='div.TweetBoxAttachments:nth-child(7) > div:nth-child(3) > div:nth-child(1) > button:nth-child(5)'
+continua='El juego continúa aquí: '
+continuador='Seguimos con la partida de este hilo: '
+start_game='Empieza una nueva partida en este hilo'
