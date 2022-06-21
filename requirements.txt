@@ -37,7 +37,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.5.0
 npyscreen==4.10.5
-numpy==1.15.0
+numpy==1.22.0
 oauthlib==2.1.0
 packaging==17.1
 pacman-mirrors==4.12.5
